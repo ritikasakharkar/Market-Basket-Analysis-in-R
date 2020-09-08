@@ -1,4 +1,4 @@
-# Market-Basket-Analysis in R
+# Market-Basket-Analysis in R 
 
 The aim is to predict the income of household using various demographic attributes.
 
